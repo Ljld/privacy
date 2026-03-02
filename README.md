@@ -42,4 +42,4 @@ Toute modification importante de cette politique sera reflétée sur cette page,
 
 ## Contact
 
-Pour toute question relative à cette politique de confidentialité ou à l’extension YT Bullets, vous pouvez ouvrir une issue sur le dépôt GitHub du projet ou nous contacter via les moyens indiqués sur la page du projet.
+Pour toute question relative à cette politique de confidentialité ou à l’extension YT Bullets, vous pouvez nous contacter à : [yt-bullets@proton.me](mailto:yt-bullets@proton.me).
